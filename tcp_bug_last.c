@@ -652,6 +652,6 @@ static void __exit tcp_bugs_unregister(void)
 
 module_init(tcp_bugs_register);
 module_exit(tcp_bugs_unregister);
-MODULE_AUTHOR("CAO NI MA");
+MODULE_AUTHOR("fix");
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("TCP BU_GS");
